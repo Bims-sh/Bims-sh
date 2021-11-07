@@ -1,4 +1,4 @@
-<h3 align="center">A developer from Earth</h3>
+<h2 align="center">German Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasischbims&label=Profile%20views&color=0e75b6&style=flat" alt="dasischbims"/>
@@ -29,3 +29,5 @@
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
 </p>
+<h2></h2>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasischbims&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="dasischbims" /></p>
