@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=dasischbims&label=Profile%20views&color=0e75b6&style=flat" alt="dasischbims"/>
 </p>
 <p align="center">
-🔭 I’m currently working on <a href="https://github.com/DasIschBims/avocbot">Acov Discord Bot</a>
+🔭 I’m currently working on <a href="https://github.com/DasIschBims/raphtalia">Raphtalia Bot</a>
   <br>
 📕 I’m currently learning <b>HTML, CSS, JS</b>
 </p>
@@ -30,6 +30,9 @@
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
 </p>
 <h2></h2>
