@@ -6,7 +6,7 @@
 <p align="center">
 🔭 I’m currently working on <a href="https://github.com/DasIschBims/raphtalia">Raphtalia Bot</a>
   <br>
-📕 I’m currently learning <b>HTML, CSS, JS</b>
+
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -40,3 +40,5 @@
 </p>
 <h2></h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasischbims&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="dasischbims" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasischbims&show_icons=true&theme=onedark&locale=en" alt="dasischbims" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasischbims&theme=dark" alt="dasischbims" /></p>
