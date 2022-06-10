@@ -31,7 +31,7 @@
  </p>
 </p>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Arikatsu&theme=rogue" align="center" alt="Github Activity" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=DasIschBims&theme=rogue" align="center" alt="Github Activity" />
 </p>
 <br>
 <p align="center">
