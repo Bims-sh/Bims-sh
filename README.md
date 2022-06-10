@@ -1,4 +1,4 @@
-<h2 align="center">German dude that does stuff</h2>
+<h2 align="center">German dude that does stuff <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png"></h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasischbims&label=Profile%20views&color=0e75b6&style=flat" alt="dasischbims"/>
@@ -14,17 +14,26 @@
 <h2></h2>
 
 <br>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasischbims&show_icons=true&theme=dark&locale=en" alt="dasischbims" /></p>
-
-<br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasischbims&theme=dark" alt="dasischbims" /></p>
+ <p align="center">
+  Github Stats
+ </p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasischbims&show_icons=true&theme=dracula&locale=en" alt="dasischbims" /></p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasischbims&show_icons=true&theme=dark&locale=en&layout=compact" alt="dasischbims" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dasischbims&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dasischbims" /></p>
+<br>
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Github Activity
+ </p>
+</p>
+<p align="center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Arikatsu&theme=rogue" align="center" alt="Github Activity" />
+</p>
+<br>
 <p align="center">
  <h2 align="center">
  </h2>
