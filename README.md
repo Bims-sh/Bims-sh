@@ -6,6 +6,7 @@
 <h2 align="center">Socials</h2>
 <p align="center">
   <p align="center"><a href="https://dasischbims.social/">My Website</a> 🌐</p>
+  <p align="center">Currently taking a little break cuz of some private stuff...</p>
 </p>
 
 <br>
