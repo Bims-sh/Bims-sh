@@ -22,7 +22,7 @@
 <h2 align="center">Github Activity</h2>
 </p>
 <p align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=DasIschBims&theme=rogue" align="center" alt="Github Activity" />
+ <img src="https://activity-graph.herokuapp.com/graph?username=DasIschBims&theme=rogue&hide_border=true" align="center" alt="Github Activity" />
 </p>
 <br>
 <p align="center">
