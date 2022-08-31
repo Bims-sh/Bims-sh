@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dasischbims&label=Profile%20views&color=0e75b6&style=flat" alt="dasischbims"/>
+    <p align="center">I kinda like TypeScript...</p>
+  <p align="center">Kotlin is kinda nice aswell!</p>
 </p>
 <h2 align="center">Socials</h2>
 <p align="center">
   <p align="center"><a href="https://dasischbims.social/">My Website</a> 🌐</p>
-  <p align="center">I kinda like TypeScript...</p>
-  <p align="center">Kotlin is kinda nice aswell!</p>
 </p>
 
 <br>
