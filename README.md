@@ -7,6 +7,7 @@
 <p align="center">
   <p align="center"><a href="https://dasischbims.social/">My Website</a> 🌐</p>
   <p align="center">I kinda like TypeScript...</p>
+  <p align="center">Kotlin is kinda nice aswell!</p>
 </p>
 
 <br>
