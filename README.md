@@ -1,5 +1,3 @@
----
-
 ![Metrics](/github-metrics.svg)
 
 ---
