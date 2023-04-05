@@ -1,4 +1,4 @@
-## No motivation to develop streak: 2 days
+## No motivation to develop streak: 4 days
 
 
 ![Metrics](/github-metrics.svg)
