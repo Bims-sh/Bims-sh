@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 6,14,22 * * *"}]
+  schedule: [{cron: "0 8,20 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -22,17 +22,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           config_twemoji: yes
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
-          plugin_code: yes
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: all
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
