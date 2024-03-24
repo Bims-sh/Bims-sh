@@ -1,23 +1,23 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 8,20 * * *"}]
+  schedule: [{ cron: "0 8,20 * * *" }]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["main"]}
+  push: { branches: ["main"] }
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: DasIschBims/metrics@master
+      - uses: Bims-sh/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          
+
           # Options
-          user: DasIschBims
+          user: Bims-sh
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
