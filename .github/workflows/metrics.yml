@@ -42,5 +42,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: Bims
+          plugin_wakatime_sections: time, languages, os, editors, languages-graphs, editors-graphs
+          plugin_wakatime_days: 180
+          plugin_wakatime_limit: 5
+          plugin_wakatime_repositories_visibility: public
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount
