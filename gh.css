@@ -44,10 +44,10 @@ body > div.logged-out.page-profile > div.application-main {
     align-content: center
 }
 
-body > div.logged-in.page-profile > div.application-main {
-    background: url("https://github.com/Bims-sh/Bims-sh/assets/46683337/33e9bca2-a102-4168-8817-61add445b15f") right 0/25%;
-    object-fit: cover;
-    align-content: center
+body > div.page-profile > div.application-main {
+    background: linear-gradient(135deg, #0A3859 25%, transparent 25%) -30px 0, linear-gradient(225deg, #0A3859 25%, transparent 25%) -30px 0, linear-gradient(315deg, #0A3859 25%, transparent 25%), linear-gradient(45deg, #0A3859 25%, transparent 25%);
+    background-size: 60px 60px;
+    background-color: #0C1017;
 }
 
 #js-contribution-activity {
