@@ -80,3 +80,7 @@ body > div.page-profile > div.application-main {
 nav.UnderlineNav {
     justify-content: center !important;
 }
+
+#user-profile-frame > div > div.Box > div > div {
+    display: none !important;
+}
