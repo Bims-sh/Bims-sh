@@ -17,7 +17,7 @@ body > div.logged-out.page-profile > div.application-main > main > div.container
     margin-bottom: 56px;
 }
 
-body > div.logged-in.page-profile > div.application-main > main > div.container-xl > div > div.Layout-sidebar > div > div.js-profile-editable-replace {
+body > div.logged-in.page-profile > div.application-main > main > div.container-xl > div > div.Layout-sidebar > div > div.js-profile-editable-replace, #user-profile-frame {
     margin-top: 24px;
     margin-bottom: 24px;
 }
@@ -45,10 +45,6 @@ body > div.page-profile > div.application-main {
 #js-contribution-activity, #user-profile-frame {
     margin-bottom: 20px;
     padding-top: 0;
-}
-
-#user-profile-frame {
-    margin-top: 25px;
 }
 
 .graph-before-activity-overview {
