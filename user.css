@@ -92,3 +92,7 @@ nav.UnderlineNav {
 .contribution-activity-listing > div > h3 {
     height: auto !important;
 }
+
+.TimelineItem-body > div.Box {
+    background-color: transparent !important;
+}
