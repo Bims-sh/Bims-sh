@@ -84,3 +84,11 @@ nav.UnderlineNav {
 #user-profile-frame > div > div.Box > div > div {
     display: none !important;
 }
+
+.contribution-activity-listing > div > h3 > span.color-bg-default {
+    background-color: transparent !important;
+}
+
+.contribution-activity-listing > div > h3 {
+    height: auto !important;
+}
