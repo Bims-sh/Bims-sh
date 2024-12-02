@@ -2453,7 +2453,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">IntelliJ IDEA</span>
-                                <div class="bar" style="width: 41.248000000000005%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.256%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
@@ -2496,7 +2496,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Dec 2024, 09:17:15 (timezone Europe/Berlin) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Dec 2024, 21:13:49 (timezone Europe/Berlin) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
